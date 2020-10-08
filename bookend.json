@@ -11,24 +11,24 @@
       "text": "Veja mais"
     },
     {
-        "type": "small",
-        "title": "Saiba mais sobre o risoto",
-        "image": "assets/risotto.png",
-        "image": "https://en.wikipedia.org/wiki/Risotto#/media/File:Italian_Risotto.png"
+      "type": "small",
+      "title": "A origem do Risoto",
+      "url": "https://en.wikipedia.org/wiki/Risotto",
+      "image": "assets/risotto.png"
     },
     {
-        "type": "landscape",
-        "title": "Preço do arroz dispara",
-        "url": "https://catracalivre.com.br/cidadania/preco-do-arroz-dispara-e-pacote-de-5-kg-chega-a-custar-r-40/",
-        "image": "assets/preco-do-arroz.jpg",
-        "category": "Arroz"
+      "type": "landscape",
+      "title": "Preço do arroz dispara",
+      "url": "https://catracalivre.com.br/cidadania/preco-do-arroz-dispara-e-pacote-de-5-kg-chega-a-custar-r-40",
+      "image": "assets/preco-do-arroz.jpg",
+      "category": "Dogs"
     },
     {
-        "type": "portrait",
-        "title": "Conheca o Arroz negro",
-        "url": "https://en.wikipedia.org/wiki/Arr%C3%B2s_negre",
-        "image": "assets/arros-negro.png",
-        "category": "Arroz Negro"
+      "type": "portrait",
+      "title": "Conheca o Arroz negro",
+      "url": "https://en.wikipedia.org/wiki/Arr%C3%B2s_negre",
+      "image": "assets/arros-negro.png",
+      "category": "birds"
     },
     {
       "type": "cta-link",
