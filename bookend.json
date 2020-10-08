@@ -8,27 +8,27 @@
   "components": [
     {
       "type": "heading",
-      "text": "More to read"
+      "text": "Veja mais"
     },
     {
         "type": "small",
         "title": "Saiba mais sobre o risoto",
-        "url": "https://wikipedia.org/wiki/Risotto",
+        "image": "assets/risotto.png",
         "image": "https://en.wikipedia.org/wiki/Risotto#/media/File:Italian_Risotto.png"
     },
     {
-      "type": "landscape",
-      "title": "Learn about border collies",
-      "url": "https://wikipedia.org/wiki/Border_Collie",
-      "image": "assets/bookend_dogs.jpg",
-      "category": "Dogs"
+        "type": "landscape",
+        "title": "Preço do arroz dispara",
+        "url": "https://catracalivre.com.br/cidadania/preco-do-arroz-dispara-e-pacote-de-5-kg-chega-a-custar-r-40/",
+        "image": "assets/preco-do-arroz.jpg",
+        "category": "Arroz"
     },
     {
-      "type": "portrait",
-      "title": "Learn about macaws",
-      "url": "https://wikipedia.org/wiki/Macaw",
-      "image": "assets/bookend_birds.jpg",
-      "category": "birds"
+        "type": "portrait",
+        "title": "Conheca o Arroz negro",
+        "url": "https://en.wikipedia.org/wiki/Arr%C3%B2s_negre",
+        "image": "assets/arros-negro.png",
+        "category": "Arroz Negro"
     },
     {
       "type": "cta-link",
