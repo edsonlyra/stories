@@ -11,10 +11,10 @@
       "text": "More to read"
     },
     {
-      "type": "small",
-      "title": "Learn about cats",
-      "url": "https://wikipedia.org/wiki/Cat",
-      "image": "assets/bookend_cats.jpg"
+        "type": "small",
+        "title": "Saiba mais sobre o risoto",
+        "url": "https://wikipedia.org/wiki/Risotto",
+        "image": "https://en.wikipedia.org/wiki/Risotto#/media/File:Italian_Risotto.png"
     },
     {
       "type": "landscape",
